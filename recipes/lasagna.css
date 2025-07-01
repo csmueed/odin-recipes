@@ -1,0 +1,38 @@
+* , ::before , ::after {
+    box-sizing: border-box;
+}
+body {
+    background-color: pink;
+    color: navy;
+}
+nav {
+    background-color: aquamarine;
+    color: black;
+}
+.short {
+    background-color: yellow;
+    color: red;
+    padding: 5px;
+    border: 3px solid red;
+    width: fit-content;
+}
+.apply {
+    background-color: green;
+    color: yellowgreen;
+    border: 3px solid yellow;
+    width: fit-content;
+}
+.img {
+    display: block;
+    width: 300px;
+    max-width: 600px;
+    height: auto;
+}
+.main {
+    background-color: red;
+    color: yellow;
+    width: fit-content;
+    height: 60px;
+    padding: 10px;
+    border: 5px solid green;
+}
