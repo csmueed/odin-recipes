@@ -8,7 +8,7 @@ body {
 h1 {
     background-color: red;
     color: yellow;
-    width: 220px;
+    width: fit-content;
     height: 60px;
     padding: 10px;
     border: 5px solid green;
